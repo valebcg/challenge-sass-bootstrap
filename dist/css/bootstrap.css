@@ -10103,5 +10103,29 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+.color-dark, .card-body {
+  background-color: #212529;
+}
+
+.color-light, .card-body {
+  color: #f8f9fa;
+}
+
+.font-size, div h5, div .h5, p, .btn {
+  font-size: 2em;
+}
+
+.card {
+  font-family: "Beau Rivage", cursive;
+}
+
+.card-title {
+  color: #6f42c1;
+}
+
+.btn {
+  color: #f8f9fa;
+  background-color: #6f42c1;
+}
 
 /*# sourceMappingURL=bootstrap.css.map */
